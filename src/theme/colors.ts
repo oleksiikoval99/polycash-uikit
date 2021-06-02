@@ -23,9 +23,9 @@ export const lightColors: Colors = {
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
-  text: "#7BB145",
+  text: "#0E0F19",
   textDisabled: "#BDC2C4",
-  textSubtle: "#7BB145",
+  textSubtle: "#0E0F19",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
   gradients: {
@@ -44,9 +44,9 @@ export const darkColors: Colors = {
   input: "#483f5a",
   primaryDark: "#7BB145",
   tertiary: "#353547",
-  text: "#7BB145",
+  text: "#FFFFFF",
   textDisabled: "#666171",
-  textSubtle: "#7BB145",
+  textSubtle: "#FFFFFF",
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {
