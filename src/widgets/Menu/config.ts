@@ -120,11 +120,11 @@ export const socials = [
     items: [
       {
         label: "Announcements",
-        href: "https://t.me/PolyCashFinance",
+        href: "https://t.me/polycashfi",
       },
       {
         label: "Discussion",
-        href: "https://t.me/PolyCash",
+        href: "https://t.me/PolyCashFinance",
       },
     ],
   },
